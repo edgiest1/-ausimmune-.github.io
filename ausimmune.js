@@ -1,1 +1,1 @@
-
+document.write("Javascript test");
